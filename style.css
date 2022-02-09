@@ -1,0 +1,61 @@
+.container{
+    height: 400px;
+    width: 600px;
+    border: 1px black solid ;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: auto;
+}
+.header{
+    height: 40%;
+    width: 100%;
+}
+.header div{
+    padding: 10px;
+}
+.logo{
+    float: left;
+}
+.logo img{
+    height: 100px;
+    width: 100px;
+}
+.showcase{
+    float: left;
+}
+.showcase h1{
+    font-size: 25px;
+}
+.showcase p{
+    font-size: 18px;
+    color: grey;
+}
+.showcase h2{
+    font-size: 20px;
+}
+.photo{
+    float: left;
+}
+.photo input{
+    height: 120px;
+    width: 120px;
+    background: grey;
+    font-weight: bold;
+    font-family: serif;
+    border: 2px black solid;
+}
+.content{
+    height: 70%;
+}
+input{
+    border: none;
+    border-bottom: 2px black solid;
+    width: 150px;
+}
+.wrap input{
+    width: 400px;
+}
+span input{
+    width: 320px;
+}
